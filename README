@@ -1,0 +1,1 @@
+This is a work in progress.  I often find myself needing to download files using Bittorrent on networks which allow the protocol but block sites like TPB.  Eventually the idea with this is to have it work over an SSH connection to a shell account I have elsewhere and then automatically begin downloading the files via magnet link on my local machine using Transmission.
